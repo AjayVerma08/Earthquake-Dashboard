@@ -9,5 +9,5 @@ A simple real-time earthquake visualisation dashboard which is interactive and r
 -> Real-Time Earthquake data: Pulled from <a href="https://earthquake.usgs.gov/fdsnws/event/1/">USGS API</a><br>
 -> Interactive filtering: Time period, magnitude and depth threshold and custom date ranges (currently supports only 1 year).<br>
 -> Map visualisation: Leaflet-based map with clustering and custom base layers (satellite, dark, terrain)<br>
--> Statistics Panel : Displays total evnts, magnitude range, depth range, and recent strongest earthquake<br>
+-> Statistics Panel : Displays total events, magnitude range, depth range, and recent strongest earthquake<br>
 -> Recent News: presents recent disaster based news from <a href="https://newsapi.org/">NEWS API</a><br>
